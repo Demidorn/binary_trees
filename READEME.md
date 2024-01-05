@@ -1,19 +1,6 @@
 # Binary Trees
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Issues](https://img.shields.io/github/issues/Demidorn/binary-trees)](https://github.com/Demidorn/binary-trees/issues)
-[![GitHub Stars](https://img.shields.io/github/stars/Demidorn/binary-trees)](https://github.com/Demidorn/binary-trees/stargazers)
-
 A collection of algorithms and data structures related to binary trees. This project includes implementations of various binary tree types, traversal methods, and related algorithms.
-
-## Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
